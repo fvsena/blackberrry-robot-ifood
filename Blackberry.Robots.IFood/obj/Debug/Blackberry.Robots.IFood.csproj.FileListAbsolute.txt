@@ -1,0 +1,10 @@
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\Blackberry.Robots.IFood.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\Blackberry.Robots.IFood.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\HtmlAgilityPack.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\HtmlAgilityPack.xml
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\obj\Debug\Blackberry.Robots.IFood.csproj.CopyComplete
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\obj\Debug\Blackberry.Robots.IFood.dll
+C:\Users\felipe.sena\source\repos\Blackberry.Robots.IFood\Blackberry.Robots.IFood\obj\Debug\Blackberry.Robots.IFood.pdb

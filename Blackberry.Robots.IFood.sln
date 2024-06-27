@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackberry.Robots.IFood", "Blackberry.Robots.IFood\Blackberry.Robots.IFood.csproj", "{11C9E882-56C1-421C-936B-108EFEB22C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackberry.Robots.IFood.Teste", "Blackberry.Robots.IFood.Teste\Blackberry.Robots.IFood.Teste.csproj", "{68D489C7-93B2-450F-801F-6733B8B02F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C9E882-56C1-421C-936B-108EFEB22C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C9E882-56C1-421C-936B-108EFEB22C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C9E882-56C1-421C-936B-108EFEB22C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C9E882-56C1-421C-936B-108EFEB22C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D489C7-93B2-450F-801F-6733B8B02F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D489C7-93B2-450F-801F-6733B8B02F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D489C7-93B2-450F-801F-6733B8B02F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D489C7-93B2-450F-801F-6733B8B02F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C511573-6877-41D5-A6B7-E4276E447C68}
+	EndGlobalSection
+EndGlobal
